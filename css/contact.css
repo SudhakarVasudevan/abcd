@@ -1,5 +1,5 @@
 .contact-page{
-    background:linear-gradient(
+     background:linear-gradient(
         180deg,
         #004b7e 0%,
         #e6f4ff 20%,
@@ -140,7 +140,6 @@
     border:0;
     filter:grayscale(10%);
 }
-
 
 /* ================= LARGE DESKTOP ================= */
 
@@ -359,5 +358,4 @@
     .map-container{
         height:280px;
     }
-
 }
