@@ -1,5 +1,11 @@
 .contact-page{
-    background:var(--off-white);
+    background:linear-gradient(
+        180deg,
+        #004b7e 0%,
+        #e6f4ff 20%,
+        #edfdfb 70%,
+        #ffffff 100%
+    );
     padding: 180px 180px;
 }
 .contact-page .container .section-title h2{
